@@ -1,0 +1,4 @@
+python-dotenv
+gradio
+pypdf
+google-generativeai
